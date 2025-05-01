@@ -1,0 +1,4 @@
+Reading image from: /kaggle/working/image/4.1.01.tiff
+Image dimensions: 256x256 | Step: 768
+Launching CUDA kernel with grid size (16,16) and block size (16,16)
+Grayscale image saved to: /kaggle/working/image/4.1.01_gray.png
